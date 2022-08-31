@@ -1,3 +1,25 @@
+#DOM Manipulation Workshop
+
+## DOM
+getElementByid(), getElementsByTagName(), getElementsByClass()
+queryseelector()
+queryselectorAll()
+
+selectors: tag, id, class, unicersal
+, grouping
+
+Selector 	           Example 	     Example description
+#id 	               #firstname 	  Selects the element with id="firstname"
+.class 	             .intro 	      Selects all elements with class="intro"
+element.class 	     p.intro 	      Selects only <p> elements with class="intro"
+* 	                 * 	            Selects all elements
+element 	           p 	             Selects all <p> elements
+element,element,.. 	 div, p 	       Selects all <div> elements and all <p> elements
+
+
+## event listening
+addEventListener()
+
 index1
 1. Here is a sample html file with a submit button. Now modify the style of the paragraph text through javascript code.
 
