@@ -17,3 +17,10 @@ index5
 index6
 7. Write a JavaScript function that creates a table, accept row, column numbers from the user, and input row-column number as content (e.g. Row-0 Column-0) of a cell.
 
+index7
+8. Write a JavaScript program to remove items from a dropdown list.
+hint: remove()
+
+index8
+9. Write a JavaScript program to count and display the items of a dropdown list, in an alert window.
+
